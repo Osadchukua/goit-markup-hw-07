@@ -85,6 +85,7 @@
   &:focus,
   &:hover {
     border-color: var(--accent-color);
+    outline: 1px solid var(--accent-color);
   }
 }
 
